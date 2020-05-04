@@ -9,8 +9,7 @@ name: Arby Abood
 description: PhD student in the Farber lab at the University of Virginia currently elucidating the genetics of osteoporosis using big data
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oudtshoorncourant.com%2FNews%2FArticle%2FLifeStyle%2Flove-your-bones-20170711&psig=AOvVaw0rufGccppn4WtrXWaYQHtm&ust=1588705901115000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiuruz0mukCFQAAAAAdAAAAABAN
-
+avatar: http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/deprecated/Research/PublishingImages/chromosome_biology.jpg
 #
 # Flags below are optional
 #
@@ -18,7 +17,7 @@ avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oudtshoorncourant.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: aa9gj@virginia.edu
   facebook:
   flickr:
   github: aa9gj
@@ -26,7 +25,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: arbywho
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorials
-permalink: /tutorials/
+permalink: /https://aa9gj.github.io/tutorials/
 ---
 
 #### RNAseq tutorial

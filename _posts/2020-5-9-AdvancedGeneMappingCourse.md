@@ -12,7 +12,7 @@ I had to write a page long statement, provide a reference letter from my PI, and
 * **Overall Impression**
 This class is worth the time and effort one puts into it. I have revised the material on my own once I returned and was able to retain most of the concepts presented. If you do get the oppurtunity to go, **do it**.
 
-Click on the hyperlink in the first line to brose the lecture material and instructor bios!
+Click on the hyperlink in the first line to browse the lecture material and instructor bios!
 
 
 
